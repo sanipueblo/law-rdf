@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2019",
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2019",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2019|",
+      "docs_changes": {
+        "Pueblo de San Ildefonso Council Res. No. SI-R19-023": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-023",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2019/023",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R19-023|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2019|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2021-08-09",
+  "codified_date": "2019-11-13",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-023": [
+      "created"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R20-018",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2020/018",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R20-018|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-09-27",
+  "codified_date": "2020-08-28",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-018": [
+      "effective"
+    ]
+  }
+}

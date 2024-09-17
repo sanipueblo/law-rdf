@@ -1,0 +1,85 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-08-21</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/us/nsn/san-ildefonso/council/resolutions/2018/005"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. SI-R18-005: Approving and Authorizing the Business Lease with San Ildefonso Services, LLC for the Totavi Convenience Store</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-08-21/2018-05-09]: Pueblo de San Ildefonso Council Res. No. SI-R18-005</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2018-05-09</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-05-09</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-05-10</oll:dateEffective>
+    <oll:docId>Pueblo de San Ildefonso Council Res. No. SI-R18-005</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21"/>
+    <oll:number>SI-R18-005</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.1">
+    <oll:cite xml:lang="en">Section 1.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.2">
+    <oll:cite xml:lang="en">Section 1.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.3">
+    <oll:cite xml:lang="en">Section 1.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.4">
+    <oll:cite xml:lang="en">Section 1.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.5">
+    <oll:cite xml:lang="en">Section 1.5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.6">
+    <oll:cite xml:lang="en">Section 1.6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R18-005|law|1.6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005/_changes">
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005"/>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.1"/>
+    <rdf:_4 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.2"/>
+    <rdf:_5 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.3"/>
+    <rdf:_6 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.4"/>
+    <rdf:_7 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.5"/>
+    <rdf:_8 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2018-05-09/us/nsn/san-ildefonso/council/resolutions/2018/005#attachments/law/1.6"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

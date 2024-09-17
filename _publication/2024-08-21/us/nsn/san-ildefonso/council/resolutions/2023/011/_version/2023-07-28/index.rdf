@@ -1,0 +1,445 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-08-21</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/us/nsn/san-ildefonso/council/resolutions/2023/011"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. SI-R23-011: Act Amending the Election Law to Allow Absentee Voting</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-08-21/2023-07-28]: Pueblo de San Ildefonso Council Res. No. SI-R23-011</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2023-07-28</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-28</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-01</oll:dateEffective>
+    <oll:docId>Pueblo de San Ildefonso Council Res. No. SI-R23-011</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21"/>
+    <oll:number>SI-R23-011</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.1">
+    <oll:cite xml:lang="en">Section 1.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.2">
+    <oll:cite xml:lang="en">Section 1.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.3">
+    <oll:cite xml:lang="en">Section 1.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.4">
+    <oll:cite xml:lang="en">Section 1.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iv|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iv|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ix|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ix|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vi|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vi|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/10">
+    <oll:cite xml:lang="en">Section 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/11">
+    <oll:cite xml:lang="en">Section 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/12">
+    <oll:cite xml:lang="en">Section 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/13">
+    <oll:cite xml:lang="en">Section 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/9">
+    <oll:cite xml:lang="en">Section 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|x|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|x|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xi|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xi|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv">
+    <oll:cite xml:lang="en">None</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011/_changes">
+    <rdf:_10 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/2"/>
+    <rdf:_11 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii"/>
+    <rdf:_12 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii/1"/>
+    <rdf:_13 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii"/>
+    <rdf:_14 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii/1"/>
+    <rdf:_15 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv"/>
+    <rdf:_16 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv/1"/>
+    <rdf:_17 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix"/>
+    <rdf:_18 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix/1"/>
+    <rdf:_19 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v"/>
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011"/>
+    <rdf:_20 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/1"/>
+    <rdf:_21 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/2"/>
+    <rdf:_22 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/3"/>
+    <rdf:_23 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi"/>
+    <rdf:_24 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi/1"/>
+    <rdf:_25 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii"/>
+    <rdf:_26 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii/1"/>
+    <rdf:_27 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii"/>
+    <rdf:_28 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/1"/>
+    <rdf:_29 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/10"/>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law"/>
+    <rdf:_30 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/11"/>
+    <rdf:_31 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/12"/>
+    <rdf:_32 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/13"/>
+    <rdf:_33 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/2"/>
+    <rdf:_34 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/3"/>
+    <rdf:_35 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/4"/>
+    <rdf:_36 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/5"/>
+    <rdf:_37 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/6"/>
+    <rdf:_38 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/7"/>
+    <rdf:_39 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/8"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.1"/>
+    <rdf:_40 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/9"/>
+    <rdf:_41 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x"/>
+    <rdf:_42 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x/1"/>
+    <rdf:_43 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi"/>
+    <rdf:_44 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi/1"/>
+    <rdf:_45 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii"/>
+    <rdf:_46 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/1"/>
+    <rdf:_47 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/2"/>
+    <rdf:_48 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/3"/>
+    <rdf:_49 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii"/>
+    <rdf:_4 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.2"/>
+    <rdf:_50 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii/1"/>
+    <rdf:_51 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv"/>
+    <rdf:_52 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/1"/>
+    <rdf:_53 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/2"/>
+    <rdf:_5 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.3"/>
+    <rdf:_6 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.4"/>
+    <rdf:_7 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law"/>
+    <rdf:_8 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i"/>
+    <rdf:_9 rdf:resource="https://law.sanipueblo.org/_publication/2024-08-21/_date/2023-07-28/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

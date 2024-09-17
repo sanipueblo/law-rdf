@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "San Ildefonso Servs. Fifth Amended Arts. of Org.",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/corporations/san-ildefonso-services/articles-of-organizations/5",
+      "doc_mpath": "San Ildefonso Servs. Fifth Amended Arts. of Org.|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/corporations/san-ildefonso-services|articles-of-organizations|",
+      "reason": null
+    },
+    {
+      "doc": "San Ildefonso Servs. Sixth Amended Operating Agreement",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/corporations/san-ildefonso-services/operating-agreements/6",
+      "doc_mpath": "San Ildefonso Servs. Sixth Amended Operating Agreement|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/corporations/san-ildefonso-services|operating-agreements|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-09-26",
+  "codified_date": "2018-12-31",
+  "reasons": {
+    "San Ildefonso Servs. Fifth Amended Arts. of Org.": [
+      "effective"
+    ],
+    "San Ildefonso Servs. Sixth Amended Operating Agreement": [
+      "effective"
+    ]
+  }
+}

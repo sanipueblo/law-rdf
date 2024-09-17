@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.11",
+      "ptag": "container",
+      "cite": "Part 6.3.11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.11",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.11|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.11.010",
+      "ptag": "section",
+      "cite": "Section 6.3.11.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.11.010",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.11|6.3.11.010|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.11.020",
+      "ptag": "section",
+      "cite": "Section 6.3.11.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.11.020",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.11|6.3.11.020|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.11.030",
+      "ptag": "section",
+      "cite": "Section 6.3.11.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.11.030",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.11|6.3.11.030|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R17-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2017/015",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R17-015|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2017|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2021-02-26",
+  "codified_date": "2017-06-09",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R17-015": [
+      "effective"
+    ]
+  }
+}

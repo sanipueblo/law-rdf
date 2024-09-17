@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2020",
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2020",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2020|",
+      "docs_changes": {
+        "Pueblo de San Ildefonso Council Res. No. SI-R20-018": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R20-018",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2020/018",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R20-018|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-11-14",
+  "codified_date": "2020-08-27",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-018": [
+      "created"
+    ]
+  }
+}

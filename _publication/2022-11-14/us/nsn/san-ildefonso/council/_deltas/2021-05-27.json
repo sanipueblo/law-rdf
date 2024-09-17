@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|19.4.1.040",
+      "ptag": "section",
+      "cite": "Section 19.4.1.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/19.4.1.040",
+      "doc_mpath": "Pueblo de San Ildefonso Code|19|19.4|19.4.1|19.4.1.040|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|19.4.1.050",
+      "ptag": "section",
+      "cite": "Section 19.4.1.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/19.4.1.050",
+      "doc_mpath": "Pueblo de San Ildefonso Code|19|19.4|19.4.1|19.4.1.050|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2021/009",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R21-009|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2022-11-14",
+  "codified_date": "2021-05-27",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-009": [
+      "effective"
+    ]
+  }
+}

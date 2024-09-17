@@ -1,0 +1,1068 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "docs_changes": {
+        "Pueblo de San Ildefonso Council Res. No. SI-R23-011": "Element added",
+        "Pueblo de San Ildefonso Council Res. No. SI-R23-012": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law",
+      "ptag": "attachment",
+      "cite": "law",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|1.1",
+      "ptag": "section",
+      "cite": "Section 1.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|1.2",
+      "ptag": "section",
+      "cite": "Section 1.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|1.3",
+      "ptag": "section",
+      "cite": "Section 1.3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|1.4",
+      "ptag": "section",
+      "cite": "Section 1.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/1.4",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|1.4|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|i",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|i|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|i|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/i/2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|i|2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|ii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|ii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|iii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|iii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|iv",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iv|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|iv|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/iv/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|iv|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|ix",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ix|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|ix|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/ix/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|ix|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|v",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|v|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|v|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|v|3",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/v/3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|v|3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|vi",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vi|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|vi|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vi/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vi|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|vii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|vii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/vii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|vii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|10",
+      "ptag": "section",
+      "cite": "Section 10",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/10",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|10|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|11",
+      "ptag": "section",
+      "cite": "Section 11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/11",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|11|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|12",
+      "ptag": "section",
+      "cite": "Section 12",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/12",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|12|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|13",
+      "ptag": "section",
+      "cite": "Section 13",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/13",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|13|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|3",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|4",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/4",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|4|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|5",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/5",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|5|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|6",
+      "ptag": "section",
+      "cite": "Section 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/6",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|6|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|7",
+      "ptag": "section",
+      "cite": "Section 7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/7",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|7|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|8",
+      "ptag": "section",
+      "cite": "Section 8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/8",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|8|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|viii|9",
+      "ptag": "section",
+      "cite": "Section 9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/viii/9",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|viii|9|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|x",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|x|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|x|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/x/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|x|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xi",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xi|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xi|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xi/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xi|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xii|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xii|3",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xii/3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xii|3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xiii",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiii|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xiii|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiii/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiii|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xiv",
+      "ptag": "container",
+      "cite": "None",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xiv|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-011",
+      "path": "attachments|law|election-law|xiv|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/011#attachments/law/election-law/xiv/2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-011|law|election-law|xiv|2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law",
+      "ptag": "attachment",
+      "cite": "law",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.1",
+      "ptag": "section",
+      "cite": "Section 1.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.2",
+      "ptag": "section",
+      "cite": "Section 1.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.3",
+      "ptag": "section",
+      "cite": "Section 1.3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.4",
+      "ptag": "section",
+      "cite": "Section 1.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.4",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.4|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.5",
+      "ptag": "section",
+      "cite": "Section 1.5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.5",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.5|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.6",
+      "ptag": "section",
+      "cite": "Section 1.6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.6",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.6|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.7",
+      "ptag": "section",
+      "cite": "Section 1.7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.7",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.7|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.8",
+      "ptag": "section",
+      "cite": "Section 1.8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.8",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.8|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|1.9",
+      "ptag": "section",
+      "cite": "Section 1.9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/1.9",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|1.9|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.0",
+      "ptag": "section",
+      "cite": "Section 2.0",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.0",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.0|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.1",
+      "ptag": "section",
+      "cite": "Section 2.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.2",
+      "ptag": "section",
+      "cite": "Section 2.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.3",
+      "ptag": "section",
+      "cite": "Section 2.3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.4",
+      "ptag": "section",
+      "cite": "Section 2.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.4",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.4|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.5",
+      "ptag": "section",
+      "cite": "Section 2.5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.5",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.5|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.6",
+      "ptag": "section",
+      "cite": "Section 2.6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.6",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.6|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.7",
+      "ptag": "section",
+      "cite": "Section 2.7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.7",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.7|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.8",
+      "ptag": "section",
+      "cite": "Section 2.8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.8",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.8|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|2.9",
+      "ptag": "section",
+      "cite": "Section 2.9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/2.9",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|2.9|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.0",
+      "ptag": "section",
+      "cite": "Section 3.0",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.0",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.0|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.1",
+      "ptag": "section",
+      "cite": "Section 3.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.1",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.1|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.2",
+      "ptag": "section",
+      "cite": "Section 3.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.2",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.2|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.3",
+      "ptag": "section",
+      "cite": "Section 3.3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.3",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.3|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.4",
+      "ptag": "section",
+      "cite": "Section 3.4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.4",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.4|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R23-012",
+      "path": "attachments|law|3.5",
+      "ptag": "section",
+      "cite": "Section 3.5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2023/012#attachments/law/3.5",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R23-012|law|3.5|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-08-21",
+  "codified_date": "2023-07-28",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R23-011": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R23-012": [
+      "created"
+    ]
+  }
+}

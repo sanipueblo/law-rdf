@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2020-11-10/_date/2017-12-04/us/nsn/san-ildefonso/council/resolutions/2017/041">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-11-10</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2017/041/us/nsn/san-ildefonso/council/resolutions/2017/tabled/041.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/us/nsn/san-ildefonso/council/resolutions/2017/041"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. SI-R17-041: Approving and Authorizing the Economic Development Lease Agreement with San Ildefonso Services, LLC for the Totavi Convenience Store</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2020-11-10/2017-12-04]: Pueblo de San Ildefonso Council Res. No. SI-R17-041</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2017-12-04</oll:codifiedDate>
+    <oll:docId>Pueblo de San Ildefonso Council Res. No. SI-R17-041</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Council Res. No. SI-R17-041|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2017-12-04/us/nsn/san-ildefonso/council/resolutions/2017/041/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10"/>
+    <oll:number>SI-R17-041</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2017/041</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2020-11-10/_date/2017-12-04/us/nsn/san-ildefonso/council/resolutions/2017/041/_changes">
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2017-12-04/us/nsn/san-ildefonso/council/resolutions/2017/041"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

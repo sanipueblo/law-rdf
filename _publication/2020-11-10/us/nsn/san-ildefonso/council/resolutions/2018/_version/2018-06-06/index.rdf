@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018">
+    <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/us/nsn/san-ildefonso/council/resolutions/2018"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2018 Council Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-06-06</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/_changes"/>
+    <oll:hasElements rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10"/>
+    <oll:libraryMaterializedPath xml:lang="en">sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2018|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2018</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/resolutions/2018</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/_changes">
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/009"/>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/010"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/011"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2020-11-10/_date/2018-06-06/us/nsn/san-ildefonso/council/resolutions/2018/_elements">
+    <rdf:_10 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/003"/>
+    <rdf:_11 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/002"/>
+    <rdf:_12 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/001"/>
+    <rdf:_13 xml:lang="en">Tabled Resolutions</rdf:_13>
+    <rdf:_1 xml:lang="en">2018 Council Resolutions</rdf:_1>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/011"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/010"/>
+    <rdf:_4 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/009"/>
+    <rdf:_5 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/008"/>
+    <rdf:_6 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/007"/>
+    <rdf:_7 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/006"/>
+    <rdf:_8 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/005"/>
+    <rdf:_9 rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2018/004"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>

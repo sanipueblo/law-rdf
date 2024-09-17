@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|19.4.1.040",
+      "ptag": "section",
+      "cite": "Section 19.4.1.040",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/19.4.1.040",
+      "doc_mpath": "Pueblo de San Ildefonso Code|19|19.4|19.4.1|19.4.1.040|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|19.4.1.050",
+      "ptag": "section",
+      "cite": "Section 19.4.1.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/19.4.1.050",
+      "doc_mpath": "Pueblo de San Ildefonso Code|19|19.4|19.4.1|19.4.1.050|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.22",
+      "ptag": "container",
+      "cite": "Part 6.3.22",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.22",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.22|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.22.010",
+      "ptag": "section",
+      "cite": "Section 6.3.22.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.22.010",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.22|6.3.22.010|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.22.020",
+      "ptag": "section",
+      "cite": "Section 6.3.22.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.22.020",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.22|6.3.22.020|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.22.030",
+      "ptag": "section",
+      "cite": "Section 6.3.22.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.22.030",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.22|6.3.22.030|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.22.040",
+      "ptag": "section",
+      "cite": "Section 6.3.22.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.3.22.040",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.3|6.3.22|6.3.22.040|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R20-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2020/016",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R20-016|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2020|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R20-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2020/017",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R20-017|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2020|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2021-11-23",
+  "codified_date": "2020-08-14",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-016": [
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-017": [
+      "effective"
+    ]
+  }
+}

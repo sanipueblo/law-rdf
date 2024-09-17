@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|15.1.8.060",
+      "ptag": "section",
+      "cite": "Section 15.1.8.060",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/15.1.8.060",
+      "doc_mpath": "Pueblo de San Ildefonso Code|15|15.1|15.1.8|15.1.8.060|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-030",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2021/030",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R21-030|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-05-09",
+  "codified_date": "2021-12-09",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-030": [
+      "effective"
+    ]
+  }
+}
