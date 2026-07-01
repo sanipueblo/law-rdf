@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7",
+      "ptag": "container",
+      "cite": "Part 6.7.7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7.010",
+      "ptag": "section",
+      "cite": "Section 6.7.7.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7.010",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|6.7.7.010|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7.020",
+      "ptag": "section",
+      "cite": "Section 6.7.7.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7.020",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|6.7.7.020|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7.030",
+      "ptag": "section",
+      "cite": "Section 6.7.7.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7.030",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|6.7.7.030|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7.040",
+      "ptag": "section",
+      "cite": "Section 6.7.7.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7.040",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|6.7.7.040|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.7.7.050",
+      "ptag": "section",
+      "cite": "Section 6.7.7.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/code/6.7.7.050",
+      "doc_mpath": "Pueblo de San Ildefonso Code|6|6.7|6.7.7|6.7.7.050|",
+      "lib_mpath": "sanipueblo/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R26-004",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/san-ildefonso/council/resolutions/2026/004",
+      "doc_mpath": "Pueblo de San Ildefonso Council Res. No. SI-R26-004|",
+      "lib_mpath": "sanipueblo/law-rdf|us/nsn/san-ildefonso/council/resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-07-30",
+  "codified_date": "2026-05-19",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R26-004": [
+      "effective"
+    ]
+  }
+}
