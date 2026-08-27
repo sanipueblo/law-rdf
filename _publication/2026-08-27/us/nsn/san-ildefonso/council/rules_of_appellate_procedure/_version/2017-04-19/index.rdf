@@ -1,0 +1,26 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2026-08-27/_date/2017-04-19/us/nsn/san-ildefonso/council/rules_of_appellate_procedure">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-08-27</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/rules_of_appellate_procedure/us/nsn/san-ildefonso/council/rules_of_appellate_procedure/rules_of_appellate_procedure.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2026-08-27/us/nsn/san-ildefonso/council/rules_of_appellate_procedure"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Rules of Appellate Procedure.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-08-27/2017-04-19]: Rules of Appellate Procedure</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2017-04-19</oll:codifiedDate>
+    <oll:docId>Rules of Appellate Procedure</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Rules of Appellate Procedure|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2026-08-27/_date/2017-04-19/us/nsn/san-ildefonso/council/rules_of_appellate_procedure/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2026-08-27"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/rules_of_appellate_procedure</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2026-08-27/_date/2017-04-19/us/nsn/san-ildefonso/council/rules_of_appellate_procedure/_changes">
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2026-08-27/_date/2017-04-19/us/nsn/san-ildefonso/council/rules_of_appellate_procedure"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
